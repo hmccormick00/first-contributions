@@ -4830,6 +4830,7 @@ Pooja Muthalik
 - [dgzdgz](https://github.com/dgzdgz)
 - [Thomas Lambell](https://github.com/thomas-lambell)
 - [Dhaval Desai](https://github.com/xPetra)
+- [Hayden McCormick] (https://github.com/hmccormick00)
 - [Mohamed Taha Ben Brahim](https://github.com/MedTaha4Ever)
 - [syxter](https://github.com/syxter)
 - [Vatsal Kesarwani](https://github.com/plazzy99)
